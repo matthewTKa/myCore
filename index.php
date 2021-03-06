@@ -20,6 +20,7 @@ if(isset($_GET['page'])){
     include $_SERVER['DOCUMENT_ROOT'] . '/pages/'.$page.'.php';
 }
 ?>
+test
 </main>
 <?php
 include $_SERVER['DOCUMENT_ROOT'] . '/footer.php';
